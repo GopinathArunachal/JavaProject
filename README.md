@@ -1,0 +1,2 @@
+# JavaProject
+Core java project
